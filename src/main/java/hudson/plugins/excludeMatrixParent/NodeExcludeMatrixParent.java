@@ -37,7 +37,7 @@ public class NodeExcludeMatrixParent extends NodeProperty<Node>{
          * This human readable name is used in the configuration screen.
          */
         public String getDisplayName() {
-            return "Exclude matrix parens to run on this slave";
+            return "Exclude matrix parents from running on this slave.";
         }
 
 	}
